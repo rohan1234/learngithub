@@ -1,4 +1,13 @@
 bknm,.
+<<<<<<< HEAD
 trgef
 rgef
 rgf
+=======
+tgf
+rgfds
+grfds
+rgfdstdc
+tgrf
+tgdf
+>>>>>>> movies
